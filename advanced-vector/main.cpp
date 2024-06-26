@@ -4,6 +4,8 @@
 #include <stdexcept>
 #include <string>
 
+//Advanced vector
+
 namespace {
 
 // "Магическое" число, используемое для отслеживания живости объекта
